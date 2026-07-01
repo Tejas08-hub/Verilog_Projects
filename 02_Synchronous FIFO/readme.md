@@ -407,9 +407,4 @@ This project demonstrates the complete RTL design and verification of a paramete
 
 The project serves as a strong foundation for understanding FIFO architecture and is suitable for FPGA implementation, ASIC design flow, digital communication systems, and VLSI design learning.
 
----
 
-
-## License
-
-This project is intended for educational and learning purposes. Feel free to use, modify, and extend the design for academic, research, and personal projects.
